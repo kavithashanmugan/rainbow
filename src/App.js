@@ -8,11 +8,12 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code> src / App.js </code> and save to reload.
+          Welcome to Rainbow shop!
+          Dive into the ocean of Colors and Music NFTs
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/kavithashanmugan/rainbow/tree/master/src"
           target="_blank"
           rel="noopener noreferrer"
         >
